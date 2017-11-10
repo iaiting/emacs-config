@@ -1,4 +1,4 @@
-# Support for golang was added based on the configuration of Purcell
+# Support for golang
 
 ## Installation
 
@@ -42,6 +42,7 @@ running `M-x package-refresh-contents` before doing so.
 	* Shortcut key id `F8`
 
 ## Thanks
+Support for golang was added based on the configuration of Purcell
 Thanks [Purcell](https://github.com/purcell/emacs.d)
 
 
